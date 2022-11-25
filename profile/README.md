@@ -2,4 +2,4 @@
 
 Pour plus de détails sur la cimenterie, dirigez-vous vers https://cimentquebec.com/
 
-![](./assets/cimentMainLogo.png)
+![](https://raw.githubusercontent.com/Ciment-Quebec/images/main/ciment-logo.png)
